@@ -11,5 +11,8 @@ English
 
 
 File encryption using XOR
+
+
+
 Warring! : Image file quality is deteriorated during decryption,Do not use Important files
 
