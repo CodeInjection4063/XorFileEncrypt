@@ -14,3 +14,5 @@ Decryption Run one more time
 
 Warring! : Image file quality is deteriorated during decryption,Do not use Important files
 
+![image](https://user-images.githubusercontent.com/81332092/112598410-e0cda200-8e51-11eb-82c4-d0eb343495a4.png)
+이런식으로 이미지가 손상되어 버립니다 주의하여주세요!
